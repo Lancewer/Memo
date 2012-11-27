@@ -6,7 +6,7 @@ Memo
 <strong>Structure</strong>:
 <ul>
 	<li>For Java Codes:</li>
-	<p>description for java codes here //stub</p>
+	<p>Add new folder must keep this file synchronized.</p>
 	<li type="none">
 	<p><strong>JavaRepo</strong>--Root Dir</p>
 		<ul type="square">
