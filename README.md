@@ -11,13 +11,17 @@ Memo
 	<p><strong>JavaRepo</strong>--Root Dir</p>
 		<ul type="square">
 			<li><strong>JavaBasics</strong>--Basic usages in Java. cataloged by jdk version.
-			<ul>
+			<ul type="none">
 				<li>jdk1.6</li>
 				<li>jdk1.7</li>
 			</ul></li>
 			<li><strong>BestPractice</strong></li>
-			<li><strong>ProblemsCollect</strong>s</li>
-			<li><strong>ImportantTopics</strong></li>
+			<li><strong>ProblemsCollection</strong></li>
+			<li><strong>ImportantTopics</strong>
+				<ul type="none">
+					<li>DesignPatterns</li>
+				</ul>
+			</li>
 			<li><strong>Snippets</strong></li>
 		</ul>
 	</li>
