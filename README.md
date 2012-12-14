@@ -5,7 +5,7 @@ Memo
 
 <strong>Structure</strong>:
 <ul>
-	<li>For Java Codes:</li>
+	<li>For <strong>Java</strong> Codes:</li>
 	<p>Add new folder must keep this file synchronized.</p>
 	<li type="none">
 	<p><strong>JavaRepo</strong>--Root Dir</p>
@@ -31,6 +31,18 @@ Memo
 			<li>Only contain java source file</li>
 		</ol>
 	</em></p>
+	<li>For <strong>Python</strong> Codes:</li>
+	<p>
+		<strong>Python</strong>--Root Python dir
+		<ul>
+			<li><strong>Python_Basics</strong>--fundmentals of python
+				<ul>
+					<li>Core Python Programming -- 2nd Edition</li>
+					<li>BeginningPython -- [aborted]</li>
+				</ul>
+			</li>
+		</ul>
+	</p>
 	<li>For other Codes:</li>
 	<p>blah blah blah</p>
 </ul>
